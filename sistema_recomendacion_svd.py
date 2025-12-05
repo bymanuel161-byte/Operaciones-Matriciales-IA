@@ -1,7 +1,7 @@
 
 """
 APLICACIÓN PRÁCTICA: Sistema de Recomendación con Filtrado Colaborativo
-Autor: [Tu Nombre]
+Autor: Manuel Ortiz
 Curso: Álgebra Lineal Aplicada a IA
 Tema: Operaciones Matriciales en Sistemas de Recomendación
 """
@@ -279,5 +279,4 @@ if __name__ == "__main__":
     # Ejecutar demostración
     sistema, matriz_original = demo_sistema_recomendacion()
 
-    print("\n\nCódigo disponible en: [URL del repositorio GitHub]")
-    print("Video explicativo en: [URL del video en YouTube]")
+   
