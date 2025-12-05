@@ -1,7 +1,7 @@
 
 """
 APLICACIÓN PRÁCTICA: Sistema de Recomendación con Filtrado Colaborativo
-Autor: [Tu Nombre]
+Autor:Manuel Ortiz
 Curso: Álgebra Lineal Aplicada a IA
 Tema: Operaciones Matriciales en Sistemas de Recomendación
 """
